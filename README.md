@@ -1,4 +1,4 @@
-#🌸 FixItKit — Your Little Web Wizard! ✨
+# 🌸 FixItKit — Your Little Web Wizard! ✨
 "Jaha problem ho, waha FixItKit ho!" 🛠️💖
 
 Welcome to FixItKit, a one-stop cute toolkit for solving everyday tiny-but-annoying digital problems. This project was created as part of a 48-hour mini-hackathon for the Girls Who Yap fellowship. Whether you want to convert text, generate fun code snippets, or just add a little sparkle to your workflow — we’ve got you!
