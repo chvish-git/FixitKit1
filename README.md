@@ -1,3 +1,5 @@
+Team Lead: https://github.com/Codezuela
+
 # 🌸 FixItKit — Your Little Web Wizard! ✨
 "Jaha problem ho, waha FixItKit ho!" 🛠️💖
 
@@ -55,6 +57,3 @@ Offline support 🚀
 
 🐣 Contributing
 Got ideas? Drop an issue or make a PR — I promise cookies 🍪.
-
-📜 License
-This project is licensed under the MIT License — free to use, modify, and share.
